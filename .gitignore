@@ -114,3 +114,4 @@ frontend/.cache/
 # Testing
 coverage/
 .nyc_output/
+.vercel
